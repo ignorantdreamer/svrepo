@@ -1,3 +1,7 @@
 print 123123
+<<<<<<< HEAD
 wyueitywieut0w
 wetwetwetw
+=======
+dutfgfjkfi
+>>>>>>> 0d0c5fb0ebf945eb269c28a642294ead5352bc3b
