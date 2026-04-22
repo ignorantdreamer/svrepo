@@ -12,6 +12,7 @@ printf('Категория A');
 printf('Категория F');
 printf('Категория D');
 printf('Категория Y');
+printf('Категория YYYYYY');
 
 
 
